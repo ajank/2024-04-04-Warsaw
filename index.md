@@ -448,6 +448,3 @@ to include the relevant installation instructions.
 These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
-
-to obtain the software and data you will need to follow the lesson.
-{% endif %}
